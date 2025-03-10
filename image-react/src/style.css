@@ -1,0 +1,21 @@
+.img {
+  width: 200px;
+  height: 200px;
+}
+.image-section {
+  padding: 10px;
+  text-align: center;
+  border: solid black 2px;
+}
+.title {
+  font-size: 50px;
+  text-align: center;
+}
+.image-item {
+    padding: 20px;
+  display: grid;
+  grid-template-columns: 250px 250px 250px 250px;
+  border: solid gray 10px;
+  gap: 100px;
+  justify-content: center;
+}
