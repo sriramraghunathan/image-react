@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 let gallery = [
   { images: one, para: "Fluffy" },
-  { images: two, para: "Fluffy" },
+  { images: two, para: "funny" },
   { images: three, para: "Playful" },
   { images: four, para: " Fluffy" },
   { images: five, para: "Playful" },
